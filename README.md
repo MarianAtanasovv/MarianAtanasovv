@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarianAtanasovv
 - 👀 I’m interested in Coding, Nature, Gaming and Sports.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently a Full Stack Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fujin_rajin@abv.bg
 
